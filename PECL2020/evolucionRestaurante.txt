@@ -1,0 +1,255 @@
+Wed Jan 20 21:33:46 CET 2021:  El Cliente144 deja un primer plato Cliente144-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente1 deja un primer plato Cliente1-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente4 deja un primer plato Cliente4-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente2 deja un primer plato Cliente2-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente83 deja un primer plato Cliente83-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente3 deja un primer plato Cliente3-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente116 deja un primer plato Cliente116-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente113 deja un primer plato Cliente113-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente5 deja un primer plato Cliente5-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente6 deja un primer plato Cliente6-P1
+Wed Jan 20 21:33:46 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente1-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente131 deja un primer plato Cliente131-P1
+Wed Jan 20 21:33:46 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente83-P1
+Wed Jan 20 21:33:46 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente1-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cocinero1 ha recogido el plato Cliente1-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente7 deja un primer plato Cliente7-P1
+Wed Jan 20 21:33:46 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente83-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cocinero2 ha recogido el plato Cliente83-P1
+Wed Jan 20 21:33:46 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:46 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente113-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente8 deja un primer plato Cliente8-P1
+Wed Jan 20 21:33:46 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente113-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cocinero3 ha recogido el plato Cliente113-P1
+Wed Jan 20 21:33:46 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:46 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente2-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cliente12 deja un primer plato Cliente12-P1
+Wed Jan 20 21:33:46 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente2-P1
+Wed Jan 20 21:33:46 CET 2021:  El Cocinero1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:46 CET 2021:  El Cocinero1 ha recogido el plato Cliente2-P1
+Wed Jan 20 21:33:47 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:47 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente116-P1
+Wed Jan 20 21:33:47 CET 2021:  El Cliente11 deja un primer plato Cliente11-P1
+Wed Jan 20 21:33:47 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente116-P1
+Wed Jan 20 21:33:47 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:47 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente3-P1
+Wed Jan 20 21:33:47 CET 2021:  El Cliente10 deja un primer plato Cliente10-P1
+Wed Jan 20 21:33:47 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente3-P1
+Wed Jan 20 21:33:47 CET 2021:  El Cocinero3 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:47 CET 2021:  El Cocinero3 ha recogido el plato Cliente116-P1
+Wed Jan 20 21:33:47 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:47 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente4-P1
+Wed Jan 20 21:33:47 CET 2021:  El Cliente13 deja un primer plato Cliente13-P1
+Wed Jan 20 21:33:47 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente4-P1
+Wed Jan 20 21:33:47 CET 2021:  El Cocinero2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:47 CET 2021:  El Cocinero2 ha recogido el plato Cliente3-P1
+Wed Jan 20 21:33:47 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:47 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente5-P1
+Wed Jan 20 21:33:47 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente5-P1
+Wed Jan 20 21:33:47 CET 2021:  El Cliente9 deja un primer plato Cliente9-P1
+Wed Jan 20 21:33:47 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:47 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente144-P1
+Wed Jan 20 21:33:47 CET 2021:  El Cliente14 deja un primer plato Cliente14-P1
+Wed Jan 20 21:33:47 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente144-P1
+Wed Jan 20 21:33:48 CET 2021:  El Cocinero2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:48 CET 2021:  El Cocinero2 ha recogido el plato Cliente4-P1
+Wed Jan 20 21:33:48 CET 2021:  El Cocinero3 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:48 CET 2021:  El Cocinero3 ha recogido el plato Cliente5-P1
+Wed Jan 20 21:33:48 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:48 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente6-P1
+Wed Jan 20 21:33:48 CET 2021:  El Cliente147 deja un primer plato Cliente147-P1
+Wed Jan 20 21:33:48 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente6-P1
+Wed Jan 20 21:33:48 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:48 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente131-P1
+Wed Jan 20 21:33:48 CET 2021:  El Cliente15 deja un primer plato Cliente15-P1
+Wed Jan 20 21:33:48 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente131-P1
+Wed Jan 20 21:33:48 CET 2021:  El Cocinero1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:48 CET 2021:  El Cocinero1 ha recogido el plato Cliente144-P1
+Wed Jan 20 21:33:48 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:48 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente7-P1
+Wed Jan 20 21:33:48 CET 2021:  El Cliente149 deja un primer plato Cliente149-P1
+Wed Jan 20 21:33:48 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente7-P1
+Wed Jan 20 21:33:49 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:49 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente8-P1
+Wed Jan 20 21:33:49 CET 2021:  El Cliente148 deja un primer plato Cliente148-P1
+Wed Jan 20 21:33:49 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente8-P1
+Wed Jan 20 21:33:49 CET 2021:  El Cocinero3 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:49 CET 2021:  El Cocinero3 ha recogido el plato Cliente6-P1
+Wed Jan 20 21:33:49 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:49 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente12-P1
+Wed Jan 20 21:33:49 CET 2021:  El Cliente150 deja un primer plato Cliente150-P1
+Wed Jan 20 21:33:49 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente12-P1
+Wed Jan 20 21:33:49 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:49 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente11-P1
+Wed Jan 20 21:33:49 CET 2021:  El Cliente151 deja un primer plato Cliente151-P1
+Wed Jan 20 21:33:49 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente11-P1
+Wed Jan 20 21:33:50 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:50 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente10-P1
+Wed Jan 20 21:33:50 CET 2021:  El Cliente16 deja un primer plato Cliente16-P1
+Wed Jan 20 21:33:50 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente10-P1
+Wed Jan 20 21:33:50 CET 2021:  El Cocinero2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:50 CET 2021:  El Cocinero2 ha recogido el plato Cliente131-P1
+Wed Jan 20 21:33:50 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:50 CET 2021:  El Cliente17 deja un primer plato Cliente17-P1
+Wed Jan 20 21:33:50 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente13-P1
+Wed Jan 20 21:33:50 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente13-P1
+Wed Jan 20 21:33:50 CET 2021:  El Cocinero1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:50 CET 2021:  El Cocinero1 ha recogido el plato Cliente7-P1
+Wed Jan 20 21:33:50 CET 2021:  El Cocinero3 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:50 CET 2021:  El Cocinero3 ha recogido el plato Cliente8-P1
+Wed Jan 20 21:33:50 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:50 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente9-P1
+Wed Jan 20 21:33:50 CET 2021:  El Cliente152 deja un primer plato Cliente152-P1
+Wed Jan 20 21:33:50 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente9-P1
+Wed Jan 20 21:33:50 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:50 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente14-P1
+Wed Jan 20 21:33:50 CET 2021:  El Cliente153 deja un primer plato Cliente153-P1
+Wed Jan 20 21:33:50 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente14-P1
+Wed Jan 20 21:33:51 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:51 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente147-P1
+Wed Jan 20 21:33:51 CET 2021:  El Cliente18 deja un primer plato Cliente18-P1
+Wed Jan 20 21:33:51 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente147-P1
+Wed Jan 20 21:33:51 CET 2021:  El Cocinero2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:51 CET 2021:  El Cocinero2 ha recogido el plato Cliente12-P1
+Wed Jan 20 21:33:51 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:51 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente15-P1
+Wed Jan 20 21:33:51 CET 2021:  El Cliente19 deja un primer plato Cliente19-P1
+Wed Jan 20 21:33:51 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente15-P1
+Wed Jan 20 21:33:51 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:51 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente149-P1
+Wed Jan 20 21:33:51 CET 2021:  El Cliente154 deja un primer plato Cliente154-P1
+Wed Jan 20 21:33:51 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente149-P1
+Wed Jan 20 21:33:51 CET 2021:  El Cocinero1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:51 CET 2021:  El Cocinero1 ha recogido el plato Cliente11-P1
+Wed Jan 20 21:33:51 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:51 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente148-P1
+Wed Jan 20 21:33:51 CET 2021:  El Cliente20 deja un primer plato Cliente20-P1
+Wed Jan 20 21:33:51 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente148-P1
+Wed Jan 20 21:33:52 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:52 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente150-P1
+Wed Jan 20 21:33:52 CET 2021:  El Cliente21 deja un primer plato Cliente21-P1
+Wed Jan 20 21:33:52 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente150-P1
+Wed Jan 20 21:33:52 CET 2021:  El Cocinero2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:52 CET 2021:  El Cocinero2 ha recogido el plato Cliente10-P1
+Wed Jan 20 21:33:52 CET 2021:  El Cocinero3 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:52 CET 2021:  El Cocinero3 ha recogido el plato Cliente13-P1
+Wed Jan 20 21:33:52 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:52 CET 2021:  El Cliente155 deja un primer plato Cliente155-P1
+Wed Jan 20 21:33:52 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente151-P1
+Wed Jan 20 21:33:52 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente151-P1
+Wed Jan 20 21:33:52 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:52 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente16-P1
+Wed Jan 20 21:33:52 CET 2021:  El Cliente22 deja un primer plato Cliente22-P1
+Wed Jan 20 21:33:52 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente16-P1
+Wed Jan 20 21:33:52 CET 2021:  El Cocinero2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:52 CET 2021:  El Cocinero2 ha recogido el plato Cliente9-P1
+Wed Jan 20 21:33:53 CET 2021:  El Cocinero1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:53 CET 2021:  El Cocinero1 ha recogido el plato Cliente14-P1
+Wed Jan 20 21:33:53 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:53 CET 2021:  El Cliente156 deja un primer plato Cliente156-P1
+Wed Jan 20 21:33:53 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente17-P1
+Wed Jan 20 21:33:53 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente17-P1
+Wed Jan 20 21:33:53 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:53 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente152-P1
+Wed Jan 20 21:33:53 CET 2021:  El Cliente23 deja un primer plato Cliente23-P1
+Wed Jan 20 21:33:53 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente152-P1
+Wed Jan 20 21:33:53 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:53 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente153-P1
+Wed Jan 20 21:33:53 CET 2021:  El Cliente159 deja un primer plato Cliente159-P1
+Wed Jan 20 21:33:53 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente153-P1
+Wed Jan 20 21:33:53 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:53 CET 2021:  El Cliente157 deja un primer plato Cliente157-P1
+Wed Jan 20 21:33:53 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente18-P1
+Wed Jan 20 21:33:53 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente18-P1
+Wed Jan 20 21:33:54 CET 2021:  El Cocinero2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:54 CET 2021:  El Cocinero2 ha recogido el plato Cliente147-P1
+Wed Jan 20 21:33:54 CET 2021:  El Cocinero1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:54 CET 2021:  El Cocinero1 ha recogido el plato Cliente15-P1
+Wed Jan 20 21:33:54 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:54 CET 2021:  El Cliente24 deja un primer plato Cliente24-P1
+Wed Jan 20 21:33:54 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente19-P1
+Wed Jan 20 21:33:54 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente19-P1
+Wed Jan 20 21:33:54 CET 2021:  El Cocinero3 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:54 CET 2021:  El Cocinero3 ha recogido el plato Cliente149-P1
+Wed Jan 20 21:33:54 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:54 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente154-P1
+Wed Jan 20 21:33:54 CET 2021:  El Cliente25 deja un primer plato Cliente25-P1
+Wed Jan 20 21:33:54 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente154-P1
+Wed Jan 20 21:33:54 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:54 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente20-P1
+Wed Jan 20 21:33:54 CET 2021:  El Cliente26 deja un primer plato Cliente26-P1
+Wed Jan 20 21:33:54 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente20-P1
+Wed Jan 20 21:33:54 CET 2021:  El Cocinero3 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:54 CET 2021:  El Cocinero3 ha recogido el plato Cliente148-P1
+Wed Jan 20 21:33:54 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:54 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente21-P1
+Wed Jan 20 21:33:55 CET 2021:  El Cliente27 deja un primer plato Cliente27-P1
+Wed Jan 20 21:33:55 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente21-P1
+Wed Jan 20 21:33:55 CET 2021:  El Cocinero1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:55 CET 2021:  El Cocinero1 ha recogido el plato Cliente150-P1
+Wed Jan 20 21:33:55 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:55 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente155-P1
+Wed Jan 20 21:33:55 CET 2021:  El Cliente28 deja un primer plato Cliente28-P1
+Wed Jan 20 21:33:55 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente155-P1
+Wed Jan 20 21:33:55 CET 2021:  El Cocinero2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:55 CET 2021:  El Cocinero2 ha recogido el plato Cliente151-P1
+Wed Jan 20 21:33:55 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:55 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente22-P1
+Wed Jan 20 21:33:55 CET 2021:  El Cliente29 deja un primer plato Cliente29-P1
+Wed Jan 20 21:33:55 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente22-P1
+Wed Jan 20 21:33:55 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:55 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente156-P1
+Wed Jan 20 21:33:55 CET 2021:  El Cliente158 deja un primer plato Cliente158-P1
+Wed Jan 20 21:33:55 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente156-P1
+Wed Jan 20 21:33:56 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:56 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente23-P1
+Wed Jan 20 21:33:56 CET 2021:  El Cliente31 deja un primer plato Cliente31-P1
+Wed Jan 20 21:33:56 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente23-P1
+Wed Jan 20 21:33:56 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:56 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente159-P1
+Wed Jan 20 21:33:56 CET 2021:  El Cliente30 deja un primer plato Cliente30-P1
+Wed Jan 20 21:33:56 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente159-P1
+Wed Jan 20 21:33:56 CET 2021:  El Cocinero2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:56 CET 2021:  El Cocinero2 ha recogido el plato Cliente16-P1
+Wed Jan 20 21:33:56 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:56 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente157-P1
+Wed Jan 20 21:33:56 CET 2021:  El Cliente32 deja un primer plato Cliente32-P1
+Wed Jan 20 21:33:56 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente157-P1
+Wed Jan 20 21:33:56 CET 2021:  El Cocinero3 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:56 CET 2021:  El Cocinero3 ha recogido el plato Cliente17-P1
+Wed Jan 20 21:33:56 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:56 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente24-P1
+Wed Jan 20 21:33:56 CET 2021:  El Cliente33 deja un primer plato Cliente33-P1
+Wed Jan 20 21:33:56 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente24-P1
+Wed Jan 20 21:33:56 CET 2021:  El Cocinero1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:56 CET 2021:  El Cocinero1 ha recogido el plato Cliente152-P1
+Wed Jan 20 21:33:57 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:57 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente25-P1
+Wed Jan 20 21:33:57 CET 2021:  El Cliente34 deja un primer plato Cliente34-P1
+Wed Jan 20 21:33:57 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente25-P1
+Wed Jan 20 21:33:57 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:57 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente26-P1
+Wed Jan 20 21:33:57 CET 2021:  El Cliente35 deja un primer plato Cliente35-P1
+Wed Jan 20 21:33:57 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente26-P1
+Wed Jan 20 21:33:57 CET 2021:  El Cocinero1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:57 CET 2021:  El Cocinero1 ha recogido el plato Cliente153-P1
+Wed Jan 20 21:33:57 CET 2021:  El Cocinero3 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:57 CET 2021:  El Cocinero3 ha recogido el plato Cliente18-P1
+Wed Jan 20 21:33:57 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:57 CET 2021:  El Empleado1 ha recogido el plato del mostrador Cliente27-P1
+Wed Jan 20 21:33:57 CET 2021:  El Cliente36 deja un primer plato Cliente36-P1
+Wed Jan 20 21:33:57 CET 2021:  El Empleado1 ha dejado el plato en cocina Cliente27-P1
+Wed Jan 20 21:33:57 CET 2021:  El Cocinero2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:57 CET 2021:  El Cocinero2 ha recogido el plato Cliente19-P1
+Wed Jan 20 21:33:57 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:57 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente28-P1
+Wed Jan 20 21:33:57 CET 2021:  El Cliente37 deja un primer plato Cliente37-P1
+Wed Jan 20 21:33:57 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente28-P1
+Wed Jan 20 21:33:58 CET 2021:  El Cocinero1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:58 CET 2021:  El Cocinero1 ha recogido el plato Cliente154-P1
+Wed Jan 20 21:33:58 CET 2021:  El Empleado2 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:58 CET 2021:  El Empleado2 ha recogido el plato del mostrador Cliente29-P1
+Wed Jan 20 21:33:58 CET 2021:  El Cliente38 deja un primer plato Cliente38-P1
+Wed Jan 20 21:33:58 CET 2021:  El Empleado2 ha dejado el plato en cocina Cliente29-P1
+Wed Jan 20 21:33:58 CET 2021:  El Empleado1 ha terminado y vuelve a por otro plato... 
+Wed Jan 20 21:33:58 CET 2021:  El Cliente39 deja un primer plato Cliente39-P1
